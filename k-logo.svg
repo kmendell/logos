@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="k-logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.60364583"
+     inkscape:cx="960"
+     inkscape:cy="539.22347"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="476"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4472"
+       x="-0.0038002771"
+       y="-0.0038002771"
+       width="1.0076006"
+       height="1.0076006">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.56287047"
+         id="feGaussianBlur4474" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#1c241c;fill-opacity:0.88755;stroke:#003380;filter:url(#filter4472)"
+       id="rect4380"
+       width="487.04056"
+       height="487.04056"
+       x="699.08545"
+       y="291.56168"
+       ry="106.02243"
+       inkscape:export-filename="C:\Users\kmendell\Documents\rect4380.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g4470"
+       transform="matrix(0.90654224,0,0,0.91588802,-172.99547,69.321314)"
+       style="stroke:none"
+       inkscape:export-filename="C:\Users\kmendell\Documents\rect4380.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path4213"
+         style="fill:#0066ff;fill-opacity:1;stroke:none"
+         d="m 1177.0163,454.47275 v 98.83203 H 1135.28 l 132.2618,132.26172 h 140.5683 z m -123.4179,98.83203 V 685.5665 h 155.375 L 1076.7116,553.30478 Z" />
+      <path
+         style="opacity:0.224359;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1053.5984,685.5665 207.9037,-143.85813 -84.4858,-87.23562 z"
+         id="path4215" />
+      <path
+         id="path4217"
+         style="fill:#0066ff;fill-opacity:1;stroke:none"
+         d="m 1053.5976,331.055 v 155.37566 l 155.3757,-155.37567 z m 0,213.94399 V 685.56684 L 1408.1108,331.05361 H 1267.543 Z" />
+    </g>
+  </g>
+</svg>
